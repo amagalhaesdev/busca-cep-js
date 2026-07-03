@@ -30,4 +30,4 @@ Por se tratar de uma aplicacao exclusivamente client-side, nao e necessario conf
 
 1. Clone o repositorio:
    ```bash
-   git clone (puxar link e colocar)
+   git clone https://github.com/amagalhaesdev/busca-cep-js/tree/main/busca-cep
