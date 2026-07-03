@@ -24,6 +24,12 @@ Este projeto demonstra boas praticas em JavaScript assincrono, consumo de APIs, 
 
 ---
 
+## Exemplo
+
+![Demonstração do Projeto](busca-cep/image.png)
+
+---
+
 ## Como Executar o Projeto
 
 Por se tratar de uma aplicacao exclusivamente client-side, nao e necessario configurar nenhum servidor ou banco de dados local.
